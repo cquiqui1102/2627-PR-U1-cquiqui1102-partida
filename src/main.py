@@ -51,16 +51,8 @@ def valorar_partida(puntuacion: int) -> int:
 
 def main():
     """
-    Función principal
-
-    Args:
-    Número de aciertos en las preguntas
-    Número de errores en las preguntas
-
-    Returns:
-    Número de preguntas respondidas en total
-    Puntuación
-    Valoración
+    Función principal:
+    Solicita al usuario el número de aciertos y errores, y muestra el número de preguntas en total, la puntuación y la valoración.
     
     """
 
