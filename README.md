@@ -60,3 +60,11 @@ Valoración: Buen resultado<br>
 - Incluye la guarda de ejecución.
 
 Entrega un repositorio PÚBLICO con el nombre **2627-PR-U1-usarioPasen-partida** y tu solución.
+
+---
+
+## Ejecutado
+
+El programa cumple perfectamente e indica la valoración.
+
+![resultado1](imagen/resultado1.png)
